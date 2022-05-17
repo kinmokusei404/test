@@ -11,3 +11,5 @@ class TestApplicationTests {
 	}
 
 }
+
+//　新規追加
