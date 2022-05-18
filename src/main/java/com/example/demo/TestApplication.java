@@ -10,6 +10,7 @@ public class TestApplication {
     SpringApplication.run(TestApplication.class, args);
     System.out.println("test");
     // komennto
+    // 別の変更
   }
 
 }
