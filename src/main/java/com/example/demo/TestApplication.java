@@ -11,6 +11,9 @@ public class TestApplication {
     System.out.println("test");
     // komennto
     // 別の変更
+    int a=0;
+    int b=1;
+    System.out.println(a+b);
   }
 
 }
